@@ -19,8 +19,8 @@ All updated settings.
     -dxlevel 81 -noaafonts
  <h1>Bindy</h1>
  <ul>
-<li><p>bind f "use weapon_smokegrenade"</li>
-<li><p>bind v "use weapon_flashbang"</li><
+    <li><p>bind f "use weapon_smokegrenade"</li> <i></i>
+<li><p>bind v "use weapon_flashbang"</li>
 <li><p>bind = "comand for bot to stay"</li>
 </ul>
 <h1>Další nastavení:</h1>
