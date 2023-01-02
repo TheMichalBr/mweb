@@ -1,5 +1,5 @@
 # CS Settings
-You can find all all updated cs settings under.
+You can find all updated cs settings under.
 <h1>Crosshairs:</h1>
 <ul>
 <li><p>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D</li>
