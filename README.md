@@ -17,11 +17,13 @@ All updated settings.
     -high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128
     +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg -nod3d9ex +snd_mixahead 0.1
     -dxlevel 81 -noaafonts
-    <h1>Bindy</h1>
-    bind f "use weapon_smokegrenade"
-    bind v "use weapon_flashbang"
-    bind = "comand for bot to stay"
-    <h1>Další nastavení:</h1>
+ <h1>Bindy</h1>
+ <ul>
+<li><p>bind f "use weapon_smokegrenade"</li>
+<li><p>bind v "use weapon_flashbang"</li><
+<li><p>bind = "comand for bot to stay"</li>
+</ul>
+<h1>Další nastavení:</h1>
     &emsp;
     DPI 400
     HZ 1000
