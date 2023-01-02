@@ -1,4 +1,4 @@
-# MWEB
+# CS Settings
 <h1>Crosshairs:</h1>
 <ul>
 <li><p>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D</li>
