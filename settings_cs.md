@@ -13,7 +13,7 @@ You can find all updated cs settings under. Configs you can find under /game_set
 <li><p>viewmodel_fov 68;viewmodel_offset_x 2;viewmodel_offset_y 2;viewmodel_offset_z -2;cl_righthand 1;viewmodel_presetpos 0</li>
 <li><p>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</li>
 </ul>
-<h3>Launch option:</h3>
+<h2>Launch option:</h2>
 <ul>
 <li><p>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg -nod3d9ex +snd_mixahead 0.1 -dxlevel 81 -noaafonts</li>
 </ul>
