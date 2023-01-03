@@ -1,3 +1,2 @@
-# MichalBr
-<b>Hii, you can find here some info about me, my computer, games settings and more stuff.</b>
+<h1>MichalBr</h1>
 <img src=folder/me.jpg>
