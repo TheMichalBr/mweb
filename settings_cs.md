@@ -28,7 +28,7 @@ You can find all updated cs settings under. Configs you can find under /game_set
 </ul>
 <h2>Bindy</h2>
 <ul>
-<li><p>bind f "use weapon_smokegrenade" <i>- Pro smoke</i></li>
-<li><p>bind v "use weapon_flashbang"</li>
-<li><p>bind = "comand for bot to stay"</li>
+<li><p>bind f "use weapon_smokegrenade" <i>- for smoke</i></li>
+<li><p>bind v "use weapon_flashbang" <i>- for flash</i></li>
+<li><p>bind = "comand for bot to stay" <i>- for bot to stay on position</i></li>
 </ul>
