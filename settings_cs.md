@@ -24,7 +24,7 @@
 <ul>
 <li><p>bind f "use weapon_smokegrenade"</li>
 <li><p>bind v "use weapon_flashbang"</li>
-<li><p>bind = "holdpos" <i>- for bot to stay on position</i></li>
+<li><p>bind = "holdpos"</li>
 </ul>
 <h2>Launch option:</h2>
 <ul>
