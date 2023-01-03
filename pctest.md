@@ -17,5 +17,5 @@
 <li><p><b>Mouse</b> – Logitech G Pro X Superlight</li>
 <li><p><b>Mousepad</b> – Logitech G640</li>
 <li><p><b>Headset/Microphone</b> – HyperX Cloud II / HyperX Quadcast</li>
-<li><p><b>Mobile/Console</b> – S20FE / XBOX 360</li>
+<li><p><b>Mobile/Console</b> – S20FE / XBOX 360 / and more...</li>
 </ul>
