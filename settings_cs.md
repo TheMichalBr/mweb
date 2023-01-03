@@ -27,9 +27,9 @@ You can find all updated cs settings under. Configs you can find under /game_set
 <ul>
 <li><p>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg -nod3d9ex +snd_mixahead 0.1 -dxlevel 81 -noaafonts</li>
 </ul>
-<h2>Bindy</h2>
+<h2>Binds:</h2>
 <ul>
 <li><p>bind f "use weapon_smokegrenade" <i>- for smoke</i></li>
 <li><p>bind v "use weapon_flashbang" <i>- for flash</i></li>
-<li><p>bind = "comand for bot to stay" <i>- for bot to stay on position</i></li>
+<li><p>bind = "holdpos" <i>- for bot to stay on position</i></li>
 </ul>
