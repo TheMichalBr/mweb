@@ -1,5 +1,6 @@
 <h1> My equipment </h1>
 
+<b>
 • CASE – Fractal Design Define 7 Black TG Dark Tint
 • PSU – Corsair HX1000
 • MB – MSI MPG B550 GAMING CARBON INTEL WIFI
@@ -15,3 +16,4 @@
 • Mouse – Logitech G Pro X Superlight
 • Mousepad – Logitech G640
 • Headset/Microphone – HyperX Cloud II / HyperX Quadcast
+</b>
