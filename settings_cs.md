@@ -29,7 +29,7 @@ You can find all updated cs settings under. Configs you can find under /game_set
 </ul>
 <h2>Binds:</h2>
 <ul>
-<li><p>bind f "use weapon_smokegrenade" <i>- for smoke</i></li>
-<li><p>bind v "use weapon_flashbang" <i>- for flash</i></li>
+<li><p>bind f "use weapon_smokegrenade"</li>
+<li><p>bind v "use weapon_flashbang"</li>
 <li><p>bind = "holdpos" <i>- for bot to stay on position</i></li>
 </ul>
