@@ -10,7 +10,7 @@
 <li><p><b>DRIVES</b><ul><li> Samsung SSD 980, M.2 - 500GB </li><li>TOSHIBA HDWE150, HDD - 5TB and more...</li></ul></li>
 <li><p><b>OS</b> – Windows 11 Pro (x64)</li>
 </ul>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <ul>
 <li><p><b>Monitors</b> – ZOWIE by BenQ XL2720 / IIYAMA PLE2209HDS-B1</li>
 <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
