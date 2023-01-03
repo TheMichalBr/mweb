@@ -12,7 +12,7 @@
 </ul>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <ul>
-<li><p><b>Monitors</b> – ZOWIE by BenQ XL2720 (Main) / IIYAMA PLE2209HDS-B1 (Second)</li>
+<li><p><b>Monitors</b> – ZOWIE by BenQ XL2720 - 144Hz, 1920x1080 (Main) / IIYAMA PLE2209HDS-B1 - 60Hz, 1920x1080 (Second)</li>
 <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
 <li><p><b>Mouse</b> – Logitech G Pro X Superlight</li>
 <li><p><b>Mousepad</b> – Logitech G640</li>
