@@ -1,2 +1,0 @@
-folder/configs/cs =
-- practice.cfg - for prac. on offline maps
