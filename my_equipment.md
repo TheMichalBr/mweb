@@ -17,6 +17,7 @@
 <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
 <li><p><b>Mouse</b> – Logitech G Pro X Superlight (400 dpi)</li>
 <li><p><b>Mousepad</b> – Logitech G640</li>
-<li><p><b>Headset/Microphone</b> – HyperX Cloud II / HyperX Quadcast</li>
+<li><p><b>Headset</b> – HyperX Cloud II</li>
+<li><p><b>Microphone</b> – HyperX Quadcast</li>
 <li><p><b>Mobile/Console</b> – Samsung S20 FE / Xbox 360 + Kinect / and more...</li>
 </ul>
