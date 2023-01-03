@@ -1,9 +1,4 @@
 <h1> My equipment </h1>
-
-<b>
-</b>
-
-<h2>PC</h2>
 <ul>
 <li><p><b>CASE</b> – Fractal Design Define 7 Black TG Dark Tint</li>
 <li><p><b>PSU</b> – Corsair HX1000</li> 
