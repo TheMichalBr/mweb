@@ -1,5 +1,14 @@
 <h1>CS Settings</h1>
 You can find all updated cs settings under. Configs you can find under /game_settings/cs or here https://settings.gg/player/154866313.
+
+<h2>Resolution and quality settings:</h2>
+<ul>
+<li><p>Resolution: 1280x1024 - Stretched</li>
+</ul>
+<h2>Sound and mouse settings:</h2>
+<ul>
+<li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
+</ul>
 <h2>Crosshairs:</h2>
 <ul>
 <li><p>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D</li>
@@ -22,9 +31,4 @@ You can find all updated cs settings under. Configs you can find under /game_set
 <li><p>bind f "use weapon_smokegrenade" <i>- Pro smoke</i></li>
 <li><p>bind v "use weapon_flashbang"</li>
 <li><p>bind = "comand for bot to stay"</li>
-</ul>
-<h2>Další nastavení:</h2>
-<ul>
-<li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
-<li><p>Resolution: Stretched</li>
 </ul>
