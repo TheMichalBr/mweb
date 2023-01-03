@@ -1,2 +1,2 @@
 <h1>MichalBr</h1>
-<img src=folder/me.jpg></img>
+<img src=folder/m.jpg></img>
