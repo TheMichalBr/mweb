@@ -1,5 +1,5 @@
 <h1>CS Settings</h1>
-<h6>You can find all updated cs settings under. Configs you can find under /game_settings/cs or here https://settings.gg/player/154866313.</h6>
+<h6>You can find config in /game_settings/cs or on https://settings.gg/player/154866313.</h6>
 
 <h2>Basic settings (Resolution, quality, sound and mouse settings):</h2>
 <ul>
