@@ -1,2 +1,2 @@
 # MichalBr
-<img src=me.jpg>
+<img src=folder/me.jpg>
