@@ -1,5 +1,5 @@
 <h1>CS Settings</h1>
-You can find all updated cs settings under. Configs you can find under /game_settings/cs.
+You can find all updated cs settings under. Configs you can find under /game_settings/cs or here https://settings.gg/player/154866313.
 <h2>Crosshairs:</h2>
 <ul>
 <li><p>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D</li>
