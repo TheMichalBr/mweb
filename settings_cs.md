@@ -8,6 +8,7 @@ You can find all updated cs settings under. Configs you can find under /game_set
 <h2>Sound and mouse settings:</h2>
 <ul>
 <li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
+<li><p>Music: 50%</li>
 </ul>
 <h2>Crosshairs:</h2>
 <ul>
