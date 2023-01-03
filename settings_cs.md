@@ -1,7 +1,7 @@
 <h1>CS Settings</h1>
 <h6>You can find config in /game_settings/cs or on https://settings.gg/player/154866313.</h6>
 
-<h2>Basic settings (Resolution, quality, sound and mouse settings):</h2>
+<h2>Basic (Video, radar, sound and mouse settings):</h2>
 <ul>
 <li><p>Resolution: 1280x1024 - Stretched</li>
 <li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
