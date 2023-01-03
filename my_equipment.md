@@ -14,7 +14,7 @@
 <ul>
 <li><p><b>Monitors</b> – ZOWIE by BenQ XL2720 - 144Hz, 1920x1080 (Main) / IIYAMA PLE2209HDS-B1 - 60Hz, 1920x1080 (Second)</li>
 <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
-<li><p><b>Mouse</b> – Logitech G Pro X Superlight</li>
+<li><p><b>Mouse</b> – Logitech G Pro X Superlight (400 dpi)</li>
 <li><p><b>Mousepad</b> – Logitech G640</li>
 <li><p><b>Headset/Microphone</b> – HyperX Cloud II / HyperX Quadcast</li>
 <li><p><b>Mobile/Console</b> – Samsung S20 FE / Xbox 360 + Kinect / and more...</li>
