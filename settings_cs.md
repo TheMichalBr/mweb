@@ -18,16 +18,13 @@ You can find all updated cs settings under. Configs you can find under /game_set
 <li><p>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg -nod3d9ex +snd_mixahead 0.1 -dxlevel 81 -noaafonts</li>
 </ul>
 <h2>Bindy</h2>
- <ul>
+<ul>
 <li><p>bind f "use weapon_smokegrenade" <i>- Pro smoke</i></li>
 <li><p>bind v "use weapon_flashbang"</li>
 <li><p>bind = "comand for bot to stay"</li>
 </ul>
 <h2>Další nastavení:</h2>
-    &emsp;
-    DPI 400
-    HZ 1000
-    RYCHLOST UKAZATELE (WIN) 6/11
-    ROZLISENI STRETCHED
-    MOZNOSTI SPUSTENI -high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144
-    +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg
+<ul>
+<li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
+<li><p>Resolution: Stretched</li>
+</ul>
