@@ -12,9 +12,9 @@
 </ul>
 <h3></h3>
 <ul>
-• <li><p><b>Monitors</b> – ZOWIE by BenQ XL2720 / IIYAMA PLE2209HDS-B1</li>
-• <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
-• <li><p><b>Mouse</b> – Logitech G Pro X Superlight</li>
-• <li><p><b>Mousepad</b> – Logitech G640</li>
-• <li><p><b>Headset/Microphone</b> – HyperX Cloud II / HyperX Quadcast</li>
+<li><p><b>Monitors</b> – ZOWIE by BenQ XL2720 / IIYAMA PLE2209HDS-B1</li>
+<li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
+<li><p><b>Mouse</b> – Logitech G Pro X Superlight</li>
+<li><p><b>Mousepad</b> – Logitech G640</li>
+<li><p><b>Headset/Microphone</b> – HyperX Cloud II / HyperX Quadcast</li>
 </ul>
