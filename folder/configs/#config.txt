@@ -1,1 +1,2 @@
-cs - practice.cfg - for prac. on offline maps
+folder/configs/cs =
+- practice.cfg - for prac. on offline maps
