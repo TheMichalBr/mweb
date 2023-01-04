@@ -1,5 +1,7 @@
 <h1> My equipment </h1>
 
+<h6>Here you can find all my equipment.</h6>
+
 <ul><li><p><b>CASE</b> – Fractal Design Define 7 Black TG Dark Tint</li>
 <li><p><b>PSU</b> – Corsair HX1000</li> 
 <li><p><b>MB</b> – MSI MPG B550 GAMING CARBON INTEL WIFI</li>
