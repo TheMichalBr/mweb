@@ -1,5 +1,5 @@
 <h1> My equipment </h1>
-<h6>Here you can find all my equipment.</h6>
+<h5>Here you can find all my equipment.</h5>
 
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 
