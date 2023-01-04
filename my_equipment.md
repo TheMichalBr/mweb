@@ -3,6 +3,8 @@
 
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 
+<h4>Computer</h4>
+
 <ul><li><p><b>CASE</b> – Fractal Design Define 7 Black TG Dark Tint</li>
 <li><p><b>PSU</b> – Corsair HX1000</li> 
 <li><p><b>MB</b> – MSI MPG B550 GAMING CARBON INTEL WIFI</li>
@@ -15,6 +17,8 @@
 <li><p><b>OS</b> – Windows 11 Pro (x64)</li></ul>
 
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
+
+<h4>Accessories</h4>
 
 <ul><li><p><b>Main Monitor</b> – ZOWIE by BenQ XL2720 (144Hz, FullHD - 1920x1080)</li>
 <li><p><b>Second Monitor</b> – IIYAMA PLE2209HDS-B1 (60Hz, FullHD - 1920x1080)</li>
