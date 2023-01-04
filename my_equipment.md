@@ -1,5 +1,4 @@
 <h1> My equipment </h1>
-
 <h6>Here you can find all my equipment.</h6>
 
 <ul><li><p><b>CASE</b> – Fractal Design Define 7 Black TG Dark Tint</li>
