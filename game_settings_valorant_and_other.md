@@ -1,4 +1,4 @@
-<h1>Valorant</h1>
+<h1>Valorant Settings</h1>
 <h2>Basic (Video, radar, sound and mouse settings):</h2>
 <ul>
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPyTMlMw5Ank2sL42YN19E8wmZbZMlLNzRpzy9UhZ-msOsjZshy1mi7xVhMzC9-I2Do9j0E4odWNNWc_PcLeBYExl5ojw=w1543-h653"></img>
