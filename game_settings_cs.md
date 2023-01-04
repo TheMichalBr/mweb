@@ -2,6 +2,9 @@
 <h6>You can find config in /game_settings/cs or on https://settings.gg/player/154866313.</h6>
 
 <h2>Basic (Video, radar, sound and mouse settings):</h2>
+
+<img src="">
+
 <ul>
 <li><p>Resolution: 1280x1024 - Stretched</li>
 <li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
