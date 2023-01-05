@@ -15,7 +15,7 @@
 </table>
 <table>
 <tr><td><b>HUD</b></td><td><b>Radar</b></td></tr>
-<tr><td><small>hud_scaling 0.896259;cl_hud_color 0;cl_hud_playercount_showcount 0;cl_hud_playercount_pos 0;cl_showloadout 0;cl_hud_healthammo_style 0;cl_hud_background_alpha 0.5;cl_hud_bomb_under_radar 1;safezonex 0.993978;safezoney 0.993978</small></td><td><small>cl_hud_radar_scale 1.15;cl_radar_scale 0.4;cl_radar_always_centered 1;cl_radar_rotate 1;cl_radar_icon_scale_min 0.4</small></td></tr>
+<tr><td><small>hud_scaling 0.896259; cl_hud_color 0; cl_hud_playercount_showcount 0; cl_hud_playercount_pos 0; cl_showloadout 0; cl_hud_healthammo_style 0; cl_hud_background_alpha 0.5; cl_hud_bomb_under_radar 1; safezonex 0.993978; safezoney 0.993978</small></td><td><small>cl_hud_radar_scale 1.15; cl_radar_scale 0.4; cl_radar_always_centered 1; cl_radar_rotate 1; cl_radar_icon_scale_min 0.4</small></td></tr>
 </table>
 
 <h3>Video and audio settings</h3>
