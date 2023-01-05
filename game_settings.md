@@ -5,7 +5,7 @@
 
 <img src="">
 <table caption="TEST">
-|Standing|Points|Team Name|Roster|
+<tr><td>|Standing|Points|Team Name|Roster|</td></tr>
 |-|-|-|-|
 </table>
 <ul>
