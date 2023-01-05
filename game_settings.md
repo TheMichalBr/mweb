@@ -7,9 +7,10 @@
 <tr><td><small>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</small></td><td><small>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</small></td></tr>
 </table>
 <table align="center">
-<tr><td><b>Resolution</b></td><td><b>Resolution</b></td><td><b>Resolution</b></td><td><b>Resolution</b></td><td><b>Resolution</b></td></tr>
-<tr><td><small>1280x1024, 4:3 - Stretched </small></td><td><small>1280x1024</small></td><td><small>1280x1024</small></td><td><small>1280x1024</small></td><td><small>1280x1024</small></td></tr>
-</table>
+<tr><td><b>Resolution</b></td><td><b>Brigthness</b></td><td><b>Master Volume</b></td><td><b>Mouse DPI + Hz</b></td><td><b>Pointer speed (Windows)</b></td><td><b>Launch options</b></td></tr>
+<tr><td><small>1280x1024, 4:3 - Stretched </small></td><td><small>130%</small></td><td><small>25%</small></td><td><small>400 + 1000Hz</small></td><td><small>6/11</small></td></td><td><small>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg -nod3d9ex +snd_mixahead 0.1 -dxlevel 81 -noaafonts</small></td></tr>
+
+<h3></h3>
 <table align="center">
 <tr> </tr>
 <tr> </tr>
@@ -23,15 +24,8 @@
 <table caption="TEST" thead="Crosshairs">
 <tr><td>Crosshairs:</td>><td>Crosshairs</td><td>Crosshairs</td></tr>
   <tr><td>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D</td><td>CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM</td><td>CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM</td><td>CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM</td><td>CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM</td><td>CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM</td></tr>
-|-|-|-|-|
 </table>
-<ul>
-<li><p>Resolution: 1280x1024 - Stretched</li>
-<li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
-  Brigthness: 130%
-  
-<li><p>Music: 50%</li>
-</ul>
+
 <h2>Crosshairs:</h2>
 <ul>
 <li><p>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D</li>
@@ -50,10 +44,6 @@
 <li><p>bind f "use weapon_smokegrenade"</li>
 <li><p>bind v "use weapon_flashbang"</li>
 <li><p>bind = "holdpos"</li>
-</ul>
-<h2>Launch options:</h2>
-<ul>
-<li><p>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg -nod3d9ex +snd_mixahead 0.1 -dxlevel 81 -noaafonts</li>
 </ul>
 <br>
 <br>
