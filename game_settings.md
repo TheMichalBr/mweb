@@ -2,10 +2,10 @@
 
 <h6>You can find config in /config_cs (https://github.com/TheMichalBr/mweb/tree/main/config_cs) or on https://settings.gg/player/154866313.</h6>
 
-<h3>My settings</h3>
+<h3>Personal settings</h3>
 <table>
 <tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td><td><b>HUD</b></td><td><b>Radar</b></td></tr>
-<tr><td><small>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</small></td><td><small>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</small></td><td><small>bind f "use weapon_smokegrenade", bind v "use weapon_flashbang", bind = "holdpos"</small></td></tr>
+<tr><td><small>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</small></td><td><small>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</small></td><td><small>bind f "use weapon_smokegrenade", bind v "use weapon_flashbang", bind = "holdpos"</small></td><td><small>cl_hud_radar_scale 1.15;cl_radar_scale 0.4;cl_radar_always_centered 1;cl_radar_rotate 1;cl_radar_icon_scale_min 0.4</small></td><td><small>hud_scaling 0.896259;cl_hud_color 0;cl_hud_playercount_showcount 0;cl_hud_playercount_pos 0;cl_showloadout 0;cl_hud_healthammo_style 0;cl_hud_background_alpha 0.5;cl_hud_bomb_under_radar 1;safezonex 0.993978;safezoney 0.993978</small></td></tr>
 </table>
 
 <h3>Video settings</h3>
