@@ -30,19 +30,20 @@
 <tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td><td><small>2,4</small></td><td><small>1</small></td></tr>
 </table>
 
-<img src="">
-
 <br>
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 <br>
 
 <h1>Valorant Settings</h1>
-<h2>Basic (Video, radar, sound and mouse):</h2>
+<h3>Basic (Video, radar, sound and mouse):</h3>
 <ul>
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPyTMlMw5Ank2sL42YN19E8wmZbZMlLNzRpzy9UhZ-msOsjZshy1mi7xVhMzC9-I2Do9j0E4odWNNWc_PcLeBYExl5ojw=w1543-h653"></img>
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gOBFyo2UkPrGUf96FJDIv-m4uSlLDzoB_KwB5kSRGR8jvlzPsEj-QaxJ-u4c3AvCVx6QWQ5QhQNd_burm2yRG4N7jP_Zw=w1543-h653"></img>
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gMPTIyrexcy6Nll2NP9wYKKUXbzTGtjMHDzoavMzcnuEmcm1nSJfx7EFA-wCekXF9PHkCCCBxu0UbYfuNUgv9RCyvDkQA=w1543-h653"></img>
 </ul>
+
+<img src="">
+
 <h2>Misc:</h2>
 <ul>
 <li><p>Only FPS Counter enabled</li>
@@ -55,4 +56,5 @@
 <li><p>0;c;1;s;1;P;h;0;0l;2;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.652;o;1</li>
 </ul>
 <br>
-<h1>Other Settings</h1>
+<h4>Other Settings</h4>
+<b>For now there is only info about cs and valorant.</b>
