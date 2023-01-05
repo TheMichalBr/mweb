@@ -1,5 +1,21 @@
 <h1>CS Settings</h1>
+
 <h6>You can find config in /config_cs (https://github.com/TheMichalBr/mweb/tree/main/config_cs) or on https://settings.gg/player/154866313.</h6>
+
+<table align="center">
+
+<tr><td>Crosshair</td><td>Viewmodel</td><td>Crosshair</td><td>Crosshair</td><td>Crosshair</td></tr>
+<tr><td>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</td><td>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</td></tr>
+  
+<tr> </tr>
+<tr> </tr>
+  
+<tr> </tr>
+<tr> </tr>
+
+</table>
+
+
 
 <h2>Basic (Video, radar, sound and mouse settings):</h2>
 
