@@ -4,7 +4,7 @@
 
 <h3>My settings</h3>
 <table>
-<tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td></tr>
+<tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td><td><b>HUD</b></td><td><b>Radar</b></td></tr>
 <tr><td><small>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</small></td><td><small>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</small></td><td><small>bind f "use weapon_smokegrenade", bind v "use weapon_flashbang", bind = "holdpos"</small></td></tr>
 </table>
 
