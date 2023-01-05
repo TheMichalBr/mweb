@@ -4,8 +4,9 @@
 <h2>Basic (Video, radar, sound and mouse settings):</h2>
 
 <img src="">
-<table caption="TEST">
-<tr><td>|Standing|Points|Team Name|Roster|</td></tr>
+<table caption="TEST" thead="Crosshairs">
+<tr><td>Crosshairs:</td></tr><tr><td>Crosshairs</td></tr><tr><td>Crosshairs</td></tr>
+  <tr><td>Crosshairs</td></tr><tr><td>Crosshairs</td></tr>
 |-|-|-|-|
 </table>
 <ul>
