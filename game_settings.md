@@ -32,11 +32,10 @@
 
 <img src="">
 
-CSGO-kuLez-W4DAQ-fxLtc-QDy7a-tUfOQ
-
 <br>
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 <br>
+
 <h1>Valorant Settings</h1>
 <h2>Basic (Video, radar, sound and mouse):</h2>
 <ul>
