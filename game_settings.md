@@ -5,7 +5,7 @@
 <h3>Personal settings</h3>
 <table>
 <tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td></tr>
-<tr><td><small>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</small></td><td><small>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</small></td><td><small>bind f "use weapon_smokegrenade", bind v "use weapon_flashbang", bind = "holdpos"</small></td></tr>
+<tr><td><small>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</small></td><td><small>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</small></td><td><small>bind f "use weapon_smokegrenade"; bind v "use weapon_flashbang"; bind = "holdpos"; bind "alt" "toggle cl_righthand 0 1"; r_cleardecals";</small></td></tr>
 </table>
 <table>
 <tr><td><b>HUD</b></td><td><b>Radar</b></td></tr>
@@ -25,11 +25,9 @@
 </table>
 
 <br>
-
 <img src="">
 
-
-<h2>Old Crosshairs:</h2>
+<h4>Old Crosshairs:</h4>
 <ul>
 <li><p>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D</li>
 <li><p>CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM</li> 
@@ -37,7 +35,7 @@
 <li><p>CSGO-kuLez-W4DAQ-fxLtc-QDy7a-tUfOQ</li>
 <li><p>CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</li>
 </ul>
-<h2>Old Viewmodels:</h2>
+<h4>Old Viewmodels:</h4>
 <ul>
 <li><p>viewmodel_fov 68;viewmodel_offset_x 2;viewmodel_offset_y 2;viewmodel_offset_z -2;cl_righthand 1;viewmodel_presetpos 0</li>
 <li><p>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</li>
