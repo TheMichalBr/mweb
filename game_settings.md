@@ -4,6 +4,8 @@
 <h2>Basic (Video, radar, sound and mouse settings):</h2>
 
 <img src="">
+|Standing|Points|Team Name|Roster|
+|-|-|-|-|
 
 <ul>
 <li><p>Resolution: 1280x1024 - Stretched</li>
