@@ -2,6 +2,12 @@
 
 <h6>You can find config in /config_cs (https://github.com/TheMichalBr/mweb/tree/main/config_cs) or on https://settings.gg/player/154866313.</h6>
 
+<h3>My stats</h3>
+<table>
+<tr><td><b>MM Rank</b></td><td><b>WM Rank</b></td><td><b>Danger Zone Rank</b></td><td><b>FACEIT Level</b></td><td><b>ESPORTAL Level</b></td></tr>
+<tr><td><small><img src="https://totalcsgo.com/image/ranks/skillgroup18.png">Global Elite</small></td><td><small><img src="https://totalcsgo.com/image/ranks/skillgroup18.png">Global Elite</small></td><td><small><img src="https://csgo-ranks.com/wp-content/uploads/sites/12/2020/07/danger-zone-rank-timber-wolf.png"> Timber Wolf</small></td><td><small> <img src="https://fluvi.s3.eu-central-1.amazonaws.com/gEV-rnFa22r.png"> Level 6 (https://www.faceit.com/en/players/michalbr-)</small></td><td><small>NONE</small></td></tr>
+</table>
+
 <h3>Personal settings</h3>
 <table>
 <tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td></tr>
@@ -20,8 +26,8 @@
 
 <h3>Mouse settings</h3>
 <table>
-<tr><td><b>DPI</b></td><td><b>Hz</b></td><td><b>Pointer speed (Win)</b></td></tr>
-<tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td></tr>
+<tr><td><b>DPI</b></td><td><b>Hz</b></td><td><b>Pointer speed (Win)</b></td><td><b>In-Game sensitivity</b></td><td><b>In-Game scope sensitivity</b></td></tr>
+<tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td><td><small>2,4</small></td><td><small>1</small></td></tr>
 </table>
 
 <br>
