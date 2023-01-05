@@ -39,21 +39,15 @@
 <br>
 <br>
 <br>
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h1>Valorant Settings</h1>
 <h2>Basic (Video, radar, sound and mouse):</h2>
 <ul>
@@ -72,4 +66,19 @@
 <li><p>0;p;0;s;1;P;c;7;h;0;f;0;0l;3;0o;2;0a;1;0f;0;1b;0;A;c;5;h;0;d;1;0b;0;1t;0;1l;0;1o;0;S;c;5;s;0.472;o;0.53</li>
 <li><p>0;c;1;s;1;P;h;0;0l;2;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.652;o;1</li>
 </ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h1>Other Settings</h1>
