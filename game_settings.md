@@ -47,12 +47,7 @@
 <li><p>viewmodel_fov 60;viewmodel_offset_x 1;viewmodel_offset_y 1;viewmodel_offset_z -1;cl_righthand 1;viewmodel_presetpos 1</li>
 </ul>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 <br>
 <h1>Valorant Settings</h1>
 <h2>Basic (Video, radar, sound and mouse):</h2>
