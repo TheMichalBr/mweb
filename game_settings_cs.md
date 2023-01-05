@@ -33,19 +33,12 @@
 <ul>
 <li><p>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg -nod3d9ex +snd_mixahead 0.1 -dxlevel 81 -noaafonts</li>
 </ul>
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 
