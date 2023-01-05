@@ -26,7 +26,7 @@
 
 <h3>Mouse settings</h3>
 <table>
-<tr><td><b>DPI</b></td><td><b>Hz</b></td><td><b>Pointer speed (Win)</b></td><td><b>Sensitivity</b></td><td><b>Scope sensitivity</b></td></tr>
+<tr><td><b>DPI</b></td><td><b>Hz</b></td><td><b>Pointer speed (Win)</b></td><td><b>In-Game sensitivity</b></td><td><b>In-Game scope sensitivity</b></td></tr>
 <tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td><td><small>2,4</small></td><td><small>1</small></td></tr>
 </table>
 
