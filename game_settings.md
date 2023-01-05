@@ -4,9 +4,10 @@
 <h2>Basic (Video, radar, sound and mouse settings):</h2>
 
 <img src="">
+<table caption="TEST">
 |Standing|Points|Team Name|Roster|
 |-|-|-|-|
-
+</table>
 <ul>
 <li><p>Resolution: 1280x1024 - Stretched</li>
 <li><p>Mouse: DPI 400, HZ 1000, FS (WIN) 6/11</li>
