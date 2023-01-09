@@ -19,7 +19,7 @@
 <li><p><b>Second Monitor</b> – IIYAMA PLE2209HDS-B1 (60Hz, FullHD - 1920x1080)</li>
 <li><p><b>Monitor Mount</b> – COMING SOON</li>
 <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
-<li><p><b>Mouse</b> – Logitech G Pro X Superlight (Using 400 DPI)</li>
+<li><p><b>Mouse</b> – Logitech G Pro X Superlight (Using 400 DPI with 1000Hz)</li>
 <li><p><b>Mousepad</b> – Logitech G640</li>
 <li><p><b>Headset</b> – HyperX Cloud II</li>
 <li><p><b>Microphone</b> – HyperX Quadcast</li>
