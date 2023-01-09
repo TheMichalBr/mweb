@@ -4,4 +4,4 @@
 My name is Michal and I've come from the Czech Republic – live in Brno.<br>
 My hobbies are games, technology, music, films, memes and more.<br>
 I can speak/understand Czech (Slovak), English, German and Spanish.<br></b>
-<br><small>I'm not going to write everything here, but if you're interested in something about me, don't be afraid to send me a message :)</small>
+<br><small>I'm not going to write everything here, but if you're interested in something, don't hesitate to send me a message :)</small>
