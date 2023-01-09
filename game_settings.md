@@ -11,7 +11,7 @@
 <h3>Personal settings</h3>
 <table>
 <tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td></tr>
-<tr><td><small>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D (CSGO-7Q4NR-kQL2p-JGu6G-7krxd-Y2hWA)</small></td><td><small>viewmodel_fov 68; viewmodel_offset_x 2; viewmodel_offset_y 2; viewmodel_offset_z -2; cl_righthand 1; viewmodel_presetpos 0</small></td><td><small>bind f "use weapon_smokegrenade"; bind v "use weapon_flashbang"; bind = "holdpos"; bind "alt" "toggle cl_righthand 0 1"; r_cleardecals";</small></td></tr>
+<tr><td><small>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D (CSGO-7Q4NR-kQL2p-JGu6G-7krxd-Y2hWA)</small></td><td><small>viewmodel_fov 68; viewmodel_offset_x 2; viewmodel_offset_y 2; viewmodel_offset_z -2; cl_righthand 1; viewmodel_presetpos 0</small></td><td><small>bind f "use weapon_smokegrenade"; bind v "use weapon_flashbang"; bind = "holdpos"; bind "alt" "toggle cl_righthand 0 1"; r_cleardecals"; (Using MOUSE4 for player ping and MOUSE5 for use microphone)</small></td></tr>
 </table>
 <table>
 <tr><td><b>HUD</b></td><td><b>Radar</b></td></tr>
@@ -29,8 +29,6 @@
 <tr><td><b>DPI</b></td><td><b>Hz</b></td><td><b>Pointer speed (Win)</b></td><td><b>In-Game sensitivity</b></td><td><b>In-Game scope sensitivity</b></td></tr>
 <tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td><td><small>2,4</small></td><td><small>1</small></td></tr>
 </table>
-
-Info: Using MOUSE4 for player ping and MOUSE5 for use microphone
 
 <br>
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
