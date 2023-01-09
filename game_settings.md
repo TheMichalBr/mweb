@@ -30,6 +30,8 @@
 <tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td><td><small>2,4</small></td><td><small>1</small></td></tr>
 </table>
 
+Info: Using MOUSE4 for player ping and MOUSE5 for use microphone
+
 <br>
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 <br>
