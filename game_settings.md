@@ -1,3 +1,5 @@
+//Continuing working on this section
+
 <h1>CS Settings</h1>
 
 <h6>You can find config in /config_cs (https://github.com/TheMichalBr/mweb/tree/main/config_cs) or on https://settings.gg/player/154866313.</h6>
