@@ -13,7 +13,7 @@ I can speak/understand Czech/Slovak, English (German, Spanish).<br></b>
 
 <ul><li><p><b>CASE</b> – Fractal Design Define 7 Black TG Dark Tint</li>
 <li><p><b>PSU</b> – Corsair HX1000</li> 
-<li><p><b>MB</b> – MSI MPG B550 GAMING CARBON INTEL WIFI</li>
+<li><p><b>MB</b> – MSI MPG B550 GAMING CARBON INTEL WIFI (BIOS 7C90v1B)</li>
 <li><p><b>CPU</b> – AMD Ryzen 7 5800X (3,8 GHz - 4,7 GHz)</li>
 <li><p><b>CPU COOLER</b> – Noctua NH-U9S chromax.black</li>
 <li><p><b>GPU</b> – NVIDIA MSI GeForce RTX 2070 GAMING Z 8GB</li>
