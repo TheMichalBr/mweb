@@ -4,6 +4,7 @@
 My hobbies are games, technology, collecting, programing, music, films, memes and more.<br>
 I can speak/understand Czech/Slovak, English, (German, Spanish).<br></b>
 <br><small>I'm not going to write everything here, but if you're interested in something, don't hesitate to send me a message :)</small>
+<br><br>
 
 <h1> My equipment </h1>
 
