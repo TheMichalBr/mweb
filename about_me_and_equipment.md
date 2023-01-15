@@ -12,7 +12,7 @@ I can speak/understand Czech/Slovak, English (German, Spanish).<br></b>
 <h3>Computer</h3>
 
 <ul><li><p><b>CASE</b> – Fractal Design Define 7 Black TG Dark Tint</li>
-<li><p><b>PSU</b> – Corsair HX1000</li> 
+<li><p><b>PSU</b> – Corsair HX1000 (1000W)</li> 
 <li><p><b>MB</b> – MSI MPG B550 GAMING CARBON INTEL WIFI (BIOS 7C90v1B)</li>
 <li><p><b>CPU</b> – AMD Ryzen 7 5800X (3,8 GHz - 4,7 GHz)</li>
 <li><p><b>CPU COOLER</b> – Noctua NH-U9S chromax.black</li>
