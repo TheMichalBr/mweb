@@ -33,6 +33,8 @@
 </table>
 
 CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM
+<b>My FACEIT: https://www.faceit.com/en/players/misakbr2
+My Settings: https://settings.gg/misakbr2</b>
 
 <br>
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
