@@ -20,7 +20,7 @@
 <h3>Video and audio settings</h3>
 <table>
 <tr><td><b>Resolution</b></td><td><b>Brigthness</b></td><td><b>Master Volume</b></td></tr>
-<tr><td><small>1280x1024, 4:3 - Stretched </small></td><td><small>130%</small></td><td><small>25% (VOIP: 40%)</small></td></tr>
+<tr><td><small>1280x1024, 4:3 - Stretched, 144Hz </small></td><td><small>130%</small></td><td><small>25% (VOIP: 40%)</small></td></tr>
 </table>
 
 <h3>Mouse settings</h3>
