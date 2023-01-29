@@ -7,7 +7,7 @@
 <h3>My stats</h3>
 <table>
 <tr><td><b>MM & WM Rank</b></td><td><b>Danger Zone Rank</b></td><td><b>FACEIT Level</b></td><td><b>ESPORTAL Level</b></td></tr>
-<tr><td><small><img src="https://totalcsgo.com/image/ranks/skillgroup18.png">Global Elite</small></td><td><small><img src="https://csgo-ranks.com/wp-content/uploads/sites/12/2020/07/danger-zone-rank-timber-wolf.png"> Timber Wolf</small></td><td><small> <img src="https://fluvi.s3.eu-central-1.amazonaws.com/gEV-rnFa22r.png" weight="65" height="65"> Level 6 (https://www.faceit.com/en/players/michalbr-)</small></td><td><small> <img src="https://fluvi.s3.eu-central-1.amazonaws.com/gEV-rnFa22r.png" weight="65" height="65"> Elite 1 (https://esportal.com/en/profile/michalbr)</small></td></tr>
+<tr><td><small><img src="https://totalcsgo.com/image/ranks/skillgroup18.png">Global Elite</small></td><td><small><img src="https://csgo-ranks.com/wp-content/uploads/sites/12/2020/07/danger-zone-rank-timber-wolf.png"> Timber Wolf</small></td><td><small> <img src="https://fluvi.s3.eu-central-1.amazonaws.com/gEV-rnFa22r.png" weight="65" height="65"> Level 6 (https://www.faceit.com/en/players/michalbr-)</small></td><td><small> <img src="" weight="65" height="65"> Elite 1 (https://esportal.com/en/profile/michalbr)</small></td></tr>
 </table>
 
 <h3>Personal settings</h3>
