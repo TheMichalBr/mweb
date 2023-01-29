@@ -19,7 +19,7 @@ I can speak/understand Czech/Slovak, English (German, Spanish).<br></b>
 <li><p><b>GPU</b> – NVIDIA MSI GeForce RTX 2070 GAMING Z 8GB</li>
 <li><p><b>RAM</b> – Kingston Fury Renegade RGB 32GB (2x16GB) DDR4 3600MHz CL16</li>
 <li><p><b>M.2 DRIVE</b> – Samsung SSD 980 - 500GB</li>
-<li><p><b>HDD DRIVE°</b> – TOSHIBA HDWE150 - 5TB</li>
+<li><p><b>HDD DRIVE</b> – TOSHIBA HDWE150 - 5TB</li> °
 <li><p><b>OS</b> – Windows 11 Pro - Insider Beta Channel (x64)</li></ul>
 
 <h3>Accessories</h3>
