@@ -5,4 +5,4 @@
 <h6><a href="https://github.com/TheMichalBr/mweb/blob/main/game_settings.md">Game settings</a></h6>
 
 
-<h6>You can write me on Discord: MichalBr#9575</h6>
+<h6>You can write me on my Discord here: MichalBr#9575</h6>
