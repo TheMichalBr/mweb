@@ -6,3 +6,6 @@
 
 
 <h6>You can write me on my Discord here: https://discord.gg/uywSPnmJTA</h6>
+
+
+<img src="https://query.hicoria.com/query.php?user=mcx_383369" alt="server status">
