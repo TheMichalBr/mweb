@@ -10,7 +10,7 @@
 <h6>You can find config in <a href="https://github.com/TheMichalBr/mweb/tree/main/config_cs">mweb/config_cs</a> or on <a href="https://settings.gg/misakbr2">settings.gg</a>.</h6>
 <table>
 <tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td></tr>
-<tr><td><small>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D / CSGO-Z2DdF-fjDA5-QHVPd-3uBWQ-CrrBE / CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM</small></td><td><small>viewmodel_fov 68; viewmodel_offset_x 2; viewmodel_offset_y 2; viewmodel_offset_z -2; cl_righthand 1; viewmodel_presetpos 0</small></td><td><small>bind f "use weapon_smokegrenade"; bind v "use weapon_flashbang"; bind = "holdpos"; bind "alt" "toggle cl_righthand 0 1"; r_cleardecals"; (Using MOUSE4 for player ping and MOUSE5 for use microphone)</small></td></tr>
+<tr><td><small>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D / CSGO-Z2DdF-fjDA5-QHVPd-3uBWQ-CrrBE / CSGO-94yFf-NEJtd-yNLtE-qPtuY-O2syM / CSGO-2YZW3-mQNd5-u5Wiu-Di5xO-NGL9P</small></td><td><small>viewmodel_fov 68; viewmodel_offset_x 2; viewmodel_offset_y 2; viewmodel_offset_z -2; cl_righthand 1; viewmodel_presetpos 0</small></td><td><small>bind f "use weapon_smokegrenade"; bind v "use weapon_flashbang"; bind = "holdpos"; bind "alt" "toggle cl_righthand 0 1"; r_cleardecals"; (Using MOUSE4 for player ping and MOUSE5 for use microphone)</small></td></tr>
 </table>
 <table>
 <tr><td><b>HUD</b></td><td><b>Radar</b></td></tr>
