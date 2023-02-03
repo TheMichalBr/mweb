@@ -1,4 +1,4 @@
-<h1>MichalBr</h1>
+<h1> MichalBr </h1>
 
 <img width=99 height=99 align="left" src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOR4_111Ow0AchGIGBLJhrqatKmaIwRiGJljdvD8Wi0Hxiwfori2NZpCXZpqRqdO16LPcy_ULX4WdYFDp_lCF31hcV-P7Q=w1920-h961"></img>
 
@@ -9,7 +9,7 @@ I can speak/understand Czech/Slovak, English (German, Spanish).<br></b>
 
 <h1> My equipment </h1>
 
-<h3>Computer</h3>
+<h3> Computer </h3>
 
 <ul><li><p><b>CASE</b> – Fractal Design Define 7 Black TG Dark Tint</li>
 <li><p><b>PSU</b> – Corsair HX1000 (1000W)</li> 
@@ -20,9 +20,9 @@ I can speak/understand Czech/Slovak, English (German, Spanish).<br></b>
 <li><p><b>RAM</b> – Kingston Fury Renegade RGB 32GB (2x16GB) DDR4 3600MHz CL16</li>
 <li><p><b>M.2 DRIVE</b> – Samsung SSD 980 - 500GB</li>
 <li><p><b>HDD DRIVE</b> – TOSHIBA HDWE150 - 5TB / I have more of them, but I dont know exact models.</li>
-<li><p><b>OS</b> – Windows 11 Pro - Insider Beta Channel (x64)</li></ul>
+<li><p><b>OS</b> – Windows 11 Pro (x64)</li></ul>
 
-<h3>Accessories</h3>
+<h3> Accessories </h3>
 
 <ul><li><p><b>Main Monitor</b> – ZOWIE by BenQ XL2720 (144Hz, 1920x1080)</li>
 <li><p><b>Second Monitor</b> – IIYAMA PLE2209HDS-B1 (60Hz, 1920x1080)</li>
