@@ -20,7 +20,7 @@ I can speak/understand Czech/Slovak, English (German, Spanish).<br></b>
 <li><p><b>RAM</b> – Kingston Fury Renegade RGB 32GB (2x16GB) DDR4 3600MHz CL16</li>
 <li><p><b>M.2 DRIVE</b> – Samsung SSD 980 - 500GB</li>
 <li><p><b>HDD DRIVE</b> – TOSHIBA HDWE150 - 5TB / I have more of them, but I dont know exact models.</li>
-<li><p><b>OS</b> – Windows 11 Pro (x64)</li></ul>
+<li><p><b>OS</b> – Windows 11 Pro - 22H2 (x64)</li></ul>
 
 <h3> Accessories </h3>
 
