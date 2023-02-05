@@ -5,5 +5,3 @@
 <h6>• <a href="https://github.com/TheMichalBr/mweb/blob/main/about_me_and_equipment.md">About me and equipment</a></h6>
 <h6>• <a href="https://github.com/TheMichalBr/mweb/blob/main/game_settings.md">Game ranks and settings</a></h6>
 <h6>• <a href="https://github.com/TheMichalBr/mweb/tree/main/config_cs">CS Config (personal and practice)</a></h6>
-
-<h6>Feel free to message me on <a href="https://discord.gg/uywSPnmJTA">my Discord server</a> if you have any questions.</h6>
