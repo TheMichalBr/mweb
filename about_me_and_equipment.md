@@ -4,8 +4,8 @@
 
 <b>My name is Michal, 20 years old and I've come from the Czech Republic – live in Brno.<br>
 My hobbies are games, technology, collecting, programing, music, films, memes and more.<br>
-I can speak Czech and English (German, Spanish + Similar..).<br></b>
-<small>I'm not going to write everything here, but if you have any questions, feel free to message me on my Discord - MichalBr#9575.<small><br><br>
+I can speak Czech and English (Slovak, German, Spanish..).<br></b>
+<small>I'm not going to write everything here, but if you have any questions, feel free to message me on my Discord - MichalBr#9575.</small><br><br>
   
 <h1> My equipment </h1>
 
