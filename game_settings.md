@@ -176,7 +176,7 @@ r_cleardecals
 <h1>Valorant Settings</h1>
 <h3>Basic (Video, radar, sound and mouse):</h3>
 <ul>
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPyTMlMw5Ank2sL42YN19E8wmZbZMlLNzRpzy9UhZ-msOsjZshy1mi7xVhMzC9-I2Do9j0E4odWNNWc_PcLeBYExl5ojw=w1543-h653"></img>
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOTb8QrQxj1AI-O3USeBVaemsYGPXxOl2VKEaS4UrtJoj2WFc8t5HW_dEbDdc95MgxQrexcP6Wd6mlBgYYLcVYYp5Oar1Q=w1920-h961"></img>
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gOBFyo2UkPrGUf96FJDIv-m4uSlLDzoB_KwB5kSRGR8jvlzPsEj-QaxJ-u4c3AvCVx6QWQ5QhQNd_burm2yRG4N7jP_Zw=w1543-h653"></img>
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gMPTIyrexcy6Nll2NP9wYKKUXbzTGtjMHDzoavMzcnuEmcm1nSJfx7EFA-wCekXF9PHkCCCBxu0UbYfuNUgv9RCyvDkQA=w1543-h653"></img>
 </ul>
