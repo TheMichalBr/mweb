@@ -1,11 +1,12 @@
 <h1>CS Settings</h1>
 
-<h3>My ranks & stats</h3>
+<h3>My ranks & stats (nonflex)</h3>
 <h6>My account: https://steamcommunity.com/id/misakbr2/.</h6>
 <table>
 <tr><td><b>MM & WM Rank</b></td><td><b>Danger Zone Rank</b></td><td><b>FACEIT Level</b></td><td><b>ESPORTAL Level</b></td></tr>
 <tr><td><small><img src="https://totalcsgo.com/image/ranks/skillgroup18.png">Global Elite</small></td><td><small><img src="https://csgo-ranks.com/wp-content/uploads/sites/12/2020/07/danger-zone-rank-timber-wolf.png"> Timber Wolf</small></td><td><small> <img src="https://fluvi.s3.eu-central-1.amazonaws.com/3OV-XYBHhEq.png" weight="65" height="65"> Level 7 (1500+) (https://www.faceit.com/en/players/michalbr-)</small></td><td><small> <img src="https://broomingboost.net/wp-content/uploads/2021/08/esportal-boost.png" weight="65" height="65"> Elite 1 (https://esportal.com/en/profile/michalbr)</small></td></tr>
 </table>
+
 <h3>Personal settings</h3> 
 <h6>You can find my config in <a href="https://github.com/TheMichalBr/mweb/tree/main/config_cs">mweb/config_cs</a> or on <a href="https://settings.gg/misakbr2">settings.gg (non-active)</a> or mb4.</h6>
 <table>
@@ -17,18 +18,9 @@
 <tr><td><small>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg</small></td><td><small>  </small></td></tr>
 </table>
 <table>
-<tr><td><b>HUD</b></td><td><b>Radar</b></td></tr>
-<tr><td><small>hud_scaling 0.896259; cl_hud_color 0; cl_hud_playercount_showcount 0; cl_hud_playercount_pos 0; cl_showloadout 0; cl_hud_healthammo_style 0; cl_hud_background_alpha 0.5; cl_hud_bomb_under_radar 1; safezonex 0.993978; safezoney 0.993978</small></td><td><small>cl_hud_radar_scale 1.15; cl_radar_scale 0.4; cl_radar_always_centered 1; cl_radar_rotate 1; cl_radar_icon_scale_min 0.4</small></td></tr>
+<tr><td><b>HUD</b></td><td><b>Radar</b></td><td><b>cl_bob</b></td></tr>
+<tr><td><small>hud_scaling 0.896259; cl_hud_color 0; cl_hud_playercount_showcount 0; cl_hud_playercount_pos 0; cl_showloadout 0; cl_hud_healthammo_style 0; cl_hud_background_alpha 0.5; cl_hud_bomb_under_radar 1; safezonex 0.993978; safezoney 0.993978</small></td><td><small>cl_hud_radar_scale 1.15; cl_radar_scale 0.4; cl_radar_always_centered 1; cl_radar_rotate 1; cl_radar_icon_scale_min 0.4</small></td><td><small>cl_viewmodel_shift_left_amt 0.5;cl_viewmodel_shift_right_amt 0.25;viewmodel_recoil 0;cl_bob_lower_amt 5;cl_bobamt_lat 0.1;cl_bobamt_vert 0.1</small></td></tr>
 </table>
-
-cl_bob
-cl_viewmodel_shift_left_amt 0.5;cl_viewmodel_shift_right_amt 0.25;viewmodel_recoil 0;cl_bob_lower_amt 5;cl_bobamt_lat 0.1;cl_bobamt_vert 0.1
-
-HUD
-hud_scaling 0.896259;cl_hud_color 0;cl_hud_playercount_showcount 0;cl_hud_playercount_pos 0;cl_showloadout 0;cl_hud_healthammo_style 0;cl_hud_background_alpha 0.5;cl_hud_bomb_under_radar 1;safezonex 0.993978;safezoney 0.993978
-
-Radar
-cl_hud_radar_scale 1.15;cl_radar_scale 0.4;cl_radar_always_centered 1;cl_radar_rotate 1;cl_radar_icon_scale_min 0.4
 
 <h3>Video and audio settings</h3>
 <table>
@@ -76,7 +68,7 @@ Vypnuto
 Uber shadery
 Zapnuto
 
-<h3>Mouse settings</h3>
+<h3>Keyboard and mouse settings</h3>
 <table>
 <tr><td><b>DPI</b></td><td><b>Hz</b></td><td><b>Pointer speed (Win)</b></td><td><b>In-Game sensitivity</b></td><td><b>In-Game scope sensitivity</b></td></tr>
 <tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td><td><small>2,4</small></td><td><small>1</small></td></tr>
