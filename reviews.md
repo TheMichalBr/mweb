@@ -2,8 +2,8 @@
 
 
 
-My Reviews
-https://www.metacritic.com/user/MichalBr
+My Reviews GAMES FILMS?
+
 
 
 
@@ -45,7 +45,7 @@ https://www.metacritic.com/user/MichalBr
 
 TEST
 
-
+https://www.metacritic.com/user/MichalBr
 
 <table>
 <tr><td><b></b></td><td><b>Game</b></td><td><b>Developer</b></td><td><b>Score</b></td></tr>
