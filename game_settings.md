@@ -10,12 +10,25 @@
 <h6>You can find my config in <a href="https://github.com/TheMichalBr/mweb/tree/main/config_cs">mweb/config_cs</a> or on <a href="https://settings.gg/misakbr2">settings.gg</a> or mb4.</h6>
 <table>
 <tr><td><b>Crosshair</b></td><td><b>Viewmodel</b></td><td><b>Binds</b></td></tr>
-<tr><td><small>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D / CSGO-Z2DdF-fjDA5-QHVPd-3uBWQ-CrrBE / CSGO-2YZW3-mQNd5-u5Wiu-Di5xO-NGL9P</small></td><td><small>viewmodel_fov 68; viewmodel_offset_x 2; viewmodel_offset_y 2; viewmodel_offset_z -2; cl_righthand 1; viewmodel_presetpos 0</small></td><td><small>bind f "use weapon_smokegrenade"; bind v "use weapon_flashbang"; bind = "holdpos"; bind "alt" "toggle cl_righthand 0 1"; r_cleardecals"; (Using MOUSE4 for player ping and MOUSE5 for use microphone)</small></td></tr>
+<tr><td><small>CSGO-bimys-eFkyb-icw9q-Sfrmo-XKH8D / CSGO-Z2DdF-fjDA5-QHVPd-3uBWQ-CrrBE / CSGO-2YZW3-mQNd5-u5Wiu-Di5xO-NGL9P / CSGO-oLKsQ-kVRsV-LVnSm-6TjZM-d4izO</small></td><td><small>viewmodel_fov 68; viewmodel_offset_x 2; viewmodel_offset_y 2; viewmodel_offset_z -2; cl_righthand 1; viewmodel_presetpos 0 / viewmodel_fov 68;viewmodel_offset_x 1;viewmodel_offset_y 2;viewmodel_offset_z -2;cl_righthand 1;viewmodel_presetpos 0</small></td><td><small>bind f "use weapon_smokegrenade"; bind v "use weapon_flashbang"; bind = "holdpos"; bind "alt" "toggle cl_righthand 0 1"; r_cleardecals"; (Using MOUSE4 for player ping and MOUSE5 for use microphone)</small></td></tr>
+</table>
+<table>
+<tr><td><b>Launch options</b></td><td><b>X</b></td></tr>
+<tr><td><small>-high -threads 8 -novid -nojoy -freq 144 -console -tickrate 128 +fps_max 500 +fps_max_menu 144 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +cl_forcepreload 1 -language bananagaming +exec autoexec.cfg</small></td><td><small>  </small></td></tr>
 </table>
 <table>
 <tr><td><b>HUD</b></td><td><b>Radar</b></td></tr>
 <tr><td><small>hud_scaling 0.896259; cl_hud_color 0; cl_hud_playercount_showcount 0; cl_hud_playercount_pos 0; cl_showloadout 0; cl_hud_healthammo_style 0; cl_hud_background_alpha 0.5; cl_hud_bomb_under_radar 1; safezonex 0.993978; safezoney 0.993978</small></td><td><small>cl_hud_radar_scale 1.15; cl_radar_scale 0.4; cl_radar_always_centered 1; cl_radar_rotate 1; cl_radar_icon_scale_min 0.4</small></td></tr>
 </table>
+
+cl_bob
+cl_viewmodel_shift_left_amt 0.5;cl_viewmodel_shift_right_amt 0.25;viewmodel_recoil 0;cl_bob_lower_amt 5;cl_bobamt_lat 0.1;cl_bobamt_vert 0.1
+
+HUD
+hud_scaling 0.896259;cl_hud_color 0;cl_hud_playercount_showcount 0;cl_hud_playercount_pos 0;cl_showloadout 0;cl_hud_healthammo_style 0;cl_hud_background_alpha 0.5;cl_hud_bomb_under_radar 1;safezonex 0.993978;safezoney 0.993978
+
+Radar
+cl_hud_radar_scale 1.15;cl_radar_scale 0.4;cl_radar_always_centered 1;cl_radar_rotate 1;cl_radar_icon_scale_min 0.4
 
 <h3>Video and audio settings</h3>
 <table>
@@ -23,11 +36,147 @@
 <tr><td><small>1280x1024, 4:3 - Stretched, 144Hz </small></td><td><small>130%</small></td><td><small>25% (VOIP: 40%)</small></td></tr>
 </table>
 
+Nastavení videa
+Jas
+130%
+Režim barev
+Počítačový monitor
+Poměr stran
+4:3
+Rozlišení
+1280x960 STRETCHED
+Režim zobrazení
+Celá obrazovka
+Souhrnná kvalita stínů
+Velmi nízká
+Kvalita modelů/textur
+Nízká
+Streamování textur
+Vypnuto
+Kvalita efektů
+Nízká
+Kvalita shaderu
+Nízká
+Navýšení kontrastu postav
+Vypnuto
+Vícejádrové renderování
+Zapnuto
+Režim vyhlazování typu multisampling
+Žádné
+FXAA vyhlazování
+Vypnuto
+Režim filtrování textur
+Bilineární
+Vertikální synchronizace
+Vypnuto
+Rozmazání pohybu
+Vypnuto
+Režim pro tři monitory
+Vypnuto
+Uber shadery
+Zapnuto
+
 <h3>Mouse settings</h3>
 <table>
 <tr><td><b>DPI</b></td><td><b>Hz</b></td><td><b>Pointer speed (Win)</b></td><td><b>In-Game sensitivity</b></td><td><b>In-Game scope sensitivity</b></td></tr>
 <tr><td><small>400</small></td><td><small>1000</small></td><td><small>6/11</small></td><td><small>2,4</small></td><td><small>1</small></td></tr>
 </table>
+
+Nastavení klávesnice
+Přepnutí zobrazení inventáře
+I
+Pohyb vpřed
+W
+Pohyb vzad
+S
+Úkrok doleva
+A
+Úkrok doprava
+D
+Chůze
+SHIFT
+Skok
+SPACE
+Přikrčení
+CTRL
+Použití
+E
+Střelba
+MOUSE1
+Sekundární střelba
+MOUSE2
+Přebití
+R
+Kruhová nabídka zbraní
+Výběr předchozí zbraně
+MWHEELUP
+Výběr další zbraně
+MWHEELDOWN
+Poslední používaná zbraň
+Q
+Upuštění zbraně
+G
+Prohlédnutí zbraně
+F
+Nákupní menu
+B
+Automatický nákup
+F3
+Nákup předešlého
+F4
+Primární zbraň
+1
+Sekundární zbraň
+2
+Zbraně na blízko
+3
+Procházení granátů
+4
+Výbušniny a pasti
+5
+Výbušný granát
+6
+Oslepující granát
+7
+Dýmovnice
+8
+Návnada
+9
+Molotovův koktejl
+0
+Adrenalin
+Nástroje
+Nabídka graffiti
+T
+Tabulka statistik
+TAB
+Vybavení spoluhráčů
+Zahájení hlasování
+Výběr týmu
+M
+Vyvolání konzole
+`
+Ukazovátko
+MOUSE4
+Rádiové zprávy
+Z
+Příkazové rádiové zprávy
+Standardní rádiové zprávy
+Oznamující rádiové zprávy
+Oznamující rádiové zprávy
+Psaní zprávy týmu
+U
+Psaní zprávy
+Y
+Mikrofon
+K
+MOUSE5
+Dočasné umlčení příchozí komunikace
+Chat. kolečko 1
+MOUSE3
+Chat. kolečko 2
+Chat. kolečko 3
+r_cleardecals
 
 <br>
 <br>
