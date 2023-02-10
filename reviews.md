@@ -5,7 +5,7 @@
 My Reviews GAMES FILMS?
 
 
-
+DOOM ETERNAL RECENZE: https://steamcommunity.com/id/misakbr2/recommended/782330/
 
 
 
