@@ -1,8 +1,7 @@
 <h1> MichalBr </h1>
 
-<ul><li><p>My name is Michal, 21 years old and I've come from the Czech Republic – live in Brno.<br></li>
-<li><p>My hobbies are games, technology, collecting, programing, creating content, music, films, memes and more.</li> 
-<li><p>I can speak Czech and English. (Slovak, German, Spanish..)</li>
+<ul><li><p>My name is Michal, 21 years old and I've come from the Czech Republic – live in Brno and can speak Czech and English (German, Spanish..).<br></li>
+<li><p>My hobbies are games, technology, programing, creating content, music, films, collecting, memes and more.</li> 
 <li><p>I'm not going to write everything here, but if you have any questions, feel free to message me on my Discord - MichalBr#9575.</li></ul>
 
 <h1> My equipment </h1>
