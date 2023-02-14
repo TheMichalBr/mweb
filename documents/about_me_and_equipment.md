@@ -30,4 +30,4 @@
 <li><p><b>Headset</b> – HyperX Cloud II</li>
 <li><p><b>Microphone</b> – HyperX Quadcast</li>
 <li><p><b>Table</b> – COMING SOON</li>
-<li><p><b>Other (Mobile, Console, Webcam)</b> – Samsung S20 FE / Xbox 360 and many more..</li></ul>
+<li><p><b>Other (Mobile, Console, Webcam..)</b> – Samsung S20 FE, Xbox 360 and many more..</li></ul>
