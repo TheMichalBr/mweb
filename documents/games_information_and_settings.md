@@ -160,8 +160,7 @@ Psaní zprávy týmu
 U
 Psaní zprávy
 Y
-Mikrofon
-K
+Mikrofon - K
 MOUSE5
 Dočasné umlčení příchozí komunikace
 Chat. kolečko 1
