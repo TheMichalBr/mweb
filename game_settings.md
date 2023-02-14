@@ -186,4 +186,9 @@ r_cleardecals
 </ul>
 
 <br>
-<h1>Other Settings</h1> 
+<h1>Other Settings</h1>
+
+
+
+<h5> Other platforms </h5>
+<h6>• My Steam account:</h6><br>
