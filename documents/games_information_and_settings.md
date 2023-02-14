@@ -185,56 +185,12 @@ r_cleardecals
 
 <br>
 <h1>Other Settings</h1>
+XXXXXXXXXXXXX - COMMING SOON - XXXXXXXXXXXXXXXXXX
 
 
 
-# NA STRÁNCE PRACUJI
-
-
-
-My Reviews GAMES FILMS?
-
-
+<h1>Recenze</h1>
 DOOM ETERNAL RECENZE: https://steamcommunity.com/id/misakbr2/recommended/782330/
-
-
-
-
-
-<BR>
-
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-
-
-
-
-
-
-
-
-
-
-
-TEST
-
 https://www.metacritic.com/user/MichalBr
 
 <table>
@@ -243,7 +199,7 @@ https://www.metacritic.com/user/MichalBr
 
 <tr><td><small><img src="https://static.metacritic.com/images/products/games/9/e6f3e91d6de4757b3a81886b520b5739-53.jpg"></small></td><td><b>Cyberpunk 2077</b></td><td>CD Project RED</td><td><b>10 / 10</b></td></tr>
 </table>
-
+Bude zájem i o další herní, neherní recenze?
 
 
 
