@@ -190,5 +190,5 @@ r_cleardecals
 
 
 
-<h5> Other platforms </h5>
+<h1> Other platforms </h1>
 <h6>• My Steam account:</h6><br>
