@@ -1,14 +1,10 @@
 <h1> MichalBr </h1>
 
-<img width=85 height=85 align="left" src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOR4_111Ow0AchGIGBLJhrqatKmaIwRiGJljdvD8Wi0Hxiwfori2NZpCXZpqRqdO16LPcy_ULX4WdYFDp_lCF31hcV-P7Q=w1920-h961"></img>
+<ul><li><p>My name is Michal, 21 years old and I've come from the Czech Republic – live in Brno.<br></li>
+<li><p>My hobbies are games, technology, collecting, programing, creating content, music, films, memes and more.</li> 
+<li><p>I can speak Czech and English. (Slovak, German, Spanish..)</li>
+<li><p>I'm not going to write everything here, but if you have any questions, feel free to message me on my Discord - MichalBr#9575.</li></ul>
 
-<ul>
-<b><li>My name is Michal, 20 years old and I've come from the Czech Republic – live in Brno.<br></li>
-<li>My hobbies are games, technology, collecting, programing, music, films, memes and more.<br></li>
-<li>I can speak Czech and English. (Slovak, German, Spanish..)<br></b></li>
-<li><small>I'm not going to write everything here, but if you have any questions, feel free to message me on my Discord - MichalBr#9575.</small><br><br></li>
-</ul>
-  
 <h1> My equipment </h1>
 
 <h3> Computer </h3>
