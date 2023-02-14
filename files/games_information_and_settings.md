@@ -1,6 +1,6 @@
 <h1>CS Settings</h1>
 
-<h3>My ranks & stats (nonflex)</h3>
+<h3>My ranks & stats</h3>
 <h6>My account: https://steamcommunity.com/id/misakbr2/.</h6>
 <table>
 <tr><td><b>MM & WM Rank</b></td><td><b>Danger Zone Rank</b></td><td><b>FACEIT Level</b></td><td><b>ESPORTAL Level</b></td></tr>
