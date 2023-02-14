@@ -1,7 +1,6 @@
 <h1>CS Settings</h1>
 
 <h3>My ranks & stats</h3>
-<h6>My account: https://steamcommunity.com/id/misakbr2/.</h6>
 <table>
 <tr><td><b>MM & WM Rank</b></td><td><b>Danger Zone Rank</b></td><td><b>FACEIT Level</b></td><td><b>ESPORTAL Level</b></td></tr>
 <tr><td><small><img src="https://totalcsgo.com/image/ranks/skillgroup18.png">Global Elite</small></td><td><small><img src="https://csgo-ranks.com/wp-content/uploads/sites/12/2020/07/danger-zone-rank-timber-wolf.png"> Timber Wolf</small></td><td><small> <img src="https://fluvi.s3.eu-central-1.amazonaws.com/3OV-XYBHhEq.png" weight="65" height="65"> Level 7 (1500+) (https://www.faceit.com/en/players/michalbr-)</small></td><td><small> <img src="https://broomingboost.net/wp-content/uploads/2021/08/esportal-boost.png" weight="65" height="65"> Elite 1 (https://esportal.com/en/profile/michalbr)</small></td></tr>
@@ -250,4 +249,5 @@ https://www.metacritic.com/user/MichalBr
 
 
 <h1> Other platforms </h1>
-<h6>• My Steam account:</h6><br>
+<h6>• My Steam account: https://steamcommunity.com/id/misakbr2/</h6>
+<h6>• My Riot account: MichalBr#UwU</h6><br>
