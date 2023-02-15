@@ -21,13 +21,11 @@
 <h3> Accessories </h3>
 
 <ul><li><p><b>Main Monitor</b> – Acer Predator XB273UNX (275Hz, 2560×1440)</li>
-<li><p><b>OLD Main Monitor</b> – ZOWIE by BenQ XL2720 (144Hz, 1920x1080)</li>
-<li><p><b>Second Monitor</b> – IIYAMA PLE2209HDS-B1 (60Hz, 1920x1080)</li>
-<li><p><b>Monitor Mount</b> – COMING SOON</li>
+<li><p><b>Second Monitor</b> – ZOWIE by BenQ XL2720 (144Hz, 1920x1080)</li>
+<li><p><b>Third Monitor</b> – IIYAMA PLE2209HDS-B1 (60Hz, 1920x1080)</li>
 <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
 <li><p><b>Mouse</b> – Logitech G Pro X Superlight (400 DPI, 1000Hz)</li>
 <li><p><b>Mousepad</b> – Logitech G640</li>
 <li><p><b>Headset</b> – HyperX Cloud II</li>
 <li><p><b>Microphone</b> – HyperX Quadcast</li>
-<li><p><b>Table</b> – COMING SOON</li>
-<li><p><b>Other (Mobile, Console, Webcam..)</b> – Samsung S20 FE, Xbox 360 and many more..</li></ul>
+<li><p><b>Other (Mobile, Console, Webcam..)</b> – Samsung S20 FE, Xbox 360 and many more.. (COMING SOON - NEW TABLE AND MONITOR MOUNT)</li></ul>
