@@ -28,4 +28,4 @@
 <li><p><b>Mousepad</b> – Logitech G640</li>
 <li><p><b>Headset</b> – HyperX Cloud II</li>
 <li><p><b>Microphone</b> – HyperX Quadcast</li>
-<li><p><b>Other (Mobile, Console, Webcam..)</b> – Samsung S20 FE, Xbox 360 and many more.. (COMING SOON - NEW TABLE AND MONITOR MOUNT)</li></ul>
+<li><p><b>Other (Mobile, Console, Webcam..)</b> – Samsung S20 FE, Xbox 360 and many more.. (COMINGNEW - TABLE AND MONITOR MOUNT)</li></ul>
