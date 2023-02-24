@@ -20,7 +20,7 @@
 
 <h3> Accessories </h3>
 
-<ul><li><p><b>Monitors</b> – Acer Predator XB273UNX (275Hz, 2560×1440), ZOWIE by BenQ XL2720, IIYAMA PLE2209HDS-B1</li>
+<ul><li><p><b>Monitors</b> – Acer Predator XB273UNX - 275Hz QHD, ZOWIE by BenQ XL2720 - 144Hz FullHD, IIYAMA PLE2209HDS-B1 - 60Hz FullHD</li>
 <li><p><b>Keyboard</b> – Logitech G915 LIGHTSPEED TKL</li>
 <li><p><b>Mouse</b> – Logitech G Pro X Superlight (400 DPI, 1000Hz)</li>
 <li><p><b>Mousepad</b> – Logitech G640</li>
